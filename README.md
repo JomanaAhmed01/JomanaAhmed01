@@ -26,7 +26,7 @@ I'm always eager to learn , open to change my way in thinking and implementing t
 Get in touch with me at ojy.ahmed@outlook.com.
 
 
-<p >
+<p align="center">
   <span class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
