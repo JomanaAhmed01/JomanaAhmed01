@@ -39,6 +39,7 @@ Get in touch with me at ojy.ahmed@outlook.com.
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img title="Github" alt="Github" height=40 src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png">
-    <img title="VSCode" alt="VSCode" height=40 src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+        <img title="VSCode" alt="VSCode" height=40 src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+
   </span>
 </p>
