@@ -10,7 +10,7 @@
 <img width="50%" align="right" alt="developer" src="./Images/female-dev.jpg" />
 
 ***About Me:***<br>
-I'm a skilled ***Frontend Web Developer*** with strong Backend knowledge and experience, I also have strong business management background.
+I'm a skilled ***Frontend Web Developer*** and I'm always eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
 <br>
 
 ***My Coding Skills:***<br>
@@ -18,8 +18,6 @@ I'm a skilled ***Frontend Web Developer*** with strong Backend knowledge and exp
 
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Creativity | Attention to Details.
-<br><br>
-I'm always eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
 
 ***Do I Sound Like a Good Fit For Your Team?***
 <br>
