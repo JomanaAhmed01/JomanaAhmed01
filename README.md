@@ -18,6 +18,8 @@ Problem Solving | Time Management | Communications Skills | Remote-Work | Creati
 ***Do I Sound Like a Good Fit For Your Team?***
 <br>
 Get in touch with me at ojy.ahmed@outlook.com.
+<br>
+LinkedIn : https://www.linkedin.com/in/jomana-ahmed/
 
 
 <p align="center">
