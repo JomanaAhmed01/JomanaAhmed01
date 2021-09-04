@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Jomana Ahmed from Egypt, I'm a Frontend Web Developer, Working Remotely. 
 ### And I'm Open for Job Offers ! :tada: 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jomana-ahmed/)
 [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ojy.ahmed@outlook.com)
-[![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/JomanaAhmed01/JomanaAhmed01)
+<!-- [![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/JomanaAhmed01/JomanaAhmed01)-->
 
 <img width="50%" align="right" alt="developer" src="https://github.com/JomanaAhmed01/JomanaAhmed01/blob/main/Images/female-developer-vector-2.jpg" />
 
