@@ -21,6 +21,8 @@ Problem Solving | Time Management | Communications Skills | Remote-Work | Creati
 Get in touch with me at ojy.ahmed@outlook.com
 <br>
 LinkedIn : https://www.linkedin.com/in/jomana-ahmed/
+<br>
+My Portfolio : https://bit.ly/jomana-ahmed-portfolio-live01
 
 
 <p align="start">
