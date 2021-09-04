@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jomana Ahmed from Egypt, I'm a Frontend Web Developer, Working Remotely. 
+### Hi there 👋, I'm Jomana Ahmed from Egypt, I'm a skilled Frontend Developer, Working Remotely. 
 ### And I'm Open for Job Offers ! :tada: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jomana-ahmed/)
 [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ojy.ahmed@outlook.com)
@@ -7,18 +7,18 @@
 <img width="50%" align="right" alt="developer" src="https://github.com/JomanaAhmed01/JomanaAhmed01/blob/main/Images/female-developer-vector-2.jpg" />
 
 ***About Me:***<br>
-I'm a skilled ***Frontend Web Developer*** and I'm always eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
+I'm a skilled ***Frontend Developer*** and I'm always eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
 <br>
 
 ***My Coding Skills:***<br>
-***React.JS*** | ***Next.JS*** | ***Styled Components*** | ***Material-UI*** | ***Ant-Design*** | HTML | CSS | ***JavaScript*** | Node.JS | Git | Github | Github Flow | VSCode | | Vercel | Github Pages | JSON | JSX | Responsive Design.
+***React.JS*** | ***Next.JS*** | ***Styled Components*** | ***Material-UI*** | ***Ant-Design*** | HTML | CSS | ***JavaScript*** | Node.JS | Git | Github | Github Flow | VSCode | | Vercel | REST-API | JSON | JSX | Responsive Design | Mobile-First Design.
 
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Creativity | Attention to Details.
 
 ***Do I Sound Like a Good Fit For Your Team?***
 <br>
-Get in touch with me at ojy.ahmed@outlook.com.
+Get in touch with me at ojy.ahmed@outlook.com
 <br>
 LinkedIn : https://www.linkedin.com/in/jomana-ahmed/
 
