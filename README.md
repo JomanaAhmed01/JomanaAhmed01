@@ -34,7 +34,7 @@ My Portfolio : https://bit.ly/jomana-ahmed-portfolio-live01
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
     <img title="React.JS" alt="React.js" height=55 src="https://cdn.auth0.com/blog/react-js/react.png">
     <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/nextjs.jpg">
-    <img title="Material UI" alt="Material UI" height=40 src="https://material-ui.com/static/logo_raw.svg">
+    <img title="Material UI" alt="Material UI" height=50 src="https://v4.mui.com/static/logo.png">
     <img title="Styled-Components" alt="Styled Components" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/styled-components2.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img title="Github" alt="Github" height=40 src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png">
