@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jomana Ahmed from Egypt, I'm a skilled Frontend Developer, Working Remotely. 
 ### And I'm Open for Job Offers ! :tada: 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jomana-ahmed/)
-[![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ojy.ahmed@outlook.com)
+<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jomana-ahmed/) -->
+<!-- [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ojy.ahmed@outlook.com) -->
 <!-- [![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/JomanaAhmed01/JomanaAhmed01)-->
 
 <img width="50%" align="right" alt="developer" src="https://github.com/JomanaAhmed01/JomanaAhmed01/blob/main/Images/female-developer-vector-2.jpg" />
@@ -18,9 +18,7 @@ Problem Solving | Time Management | Communications Skills | Remote-Work | Creati
 
 ***Do I Sound Like a Good Fit For Your Team?***
 <br>
-Get in touch with me at ojy.ahmed@outlook.com
-<br>
-LinkedIn : https://www.linkedin.com/in/jomana-ahmed/
+Get in touch with me through Upwork messages https://www.upwork.com/freelancers/~015fbe258b25814a38
 <br>
 My Portfolio : https://bit.ly/jomana-ahmed-portfolio-live01
 
